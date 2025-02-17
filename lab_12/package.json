@@ -9,6 +9,7 @@
   "author": "Morgan Martin",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.21.2",
     "spotify-web-api-node": "^5.0.2"
   }
 }
